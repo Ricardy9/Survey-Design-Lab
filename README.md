@@ -26,28 +26,15 @@ The objective is to bridge methodological rigor with practical implementation by
 
 # Areas of Exploration
 
-## 📋 Survey Design
-
+## 📋⚙️ Survey Design & Development
 * Questionnaire optimization
 * Respondent burden reduction
-* Adaptive questionnaires
-* Skip logic design
-* Recall period optimization
 * Cognitive testing concepts
-
-## ⚙️ SurveyCTO Development
-
 * XLSForm templates
 * Advanced calculations
-* Dynamic rosters
-* Choice filtering
-* Repeat groups
-* Form architecture patterns
 
 ## 🧩 Field Plug-ins
-
 Custom SurveyCTO plug-ins including:
-
 * Calendar selectors
 * Interactive grids
 * Indicator calculators
@@ -55,16 +42,7 @@ Custom SurveyCTO plug-ins including:
 * Validation utilities
 * Data visualization components
 
-## 📊 Monitoring Systems
-
-* Indicator frameworks
-* Results frameworks
-* Theory of Change integration
-* KPI tracking systems
-* Institutional monitoring solutions
-
 ## ✅ Data Quality
-
 * Validation rules
 * Enumerator checks
 * Consistency verification
@@ -72,38 +50,30 @@ Custom SurveyCTO plug-ins including:
 * Metadata analysis
 
 ## 🤖 AI & Survey Operations
-
 * LLM-assisted survey design
 * Automated questionnaire reviews
 * Survey documentation generation
 * Coding and classification tools
 * Knowledge retrieval systems
-
 ---
 
 # Current Projects
 
 ## 📅 School & Meal Day Calendar Plug-in
-
 An interactive SurveyCTO field plug-in designed to replace repetitive day-by-day survey tables with a calendar-based selection interface.
-
 ### Objectives
-
 * Reduce respondent fatigue
 * Improve usability
 * Preserve exact date-level information
 * Improve data quality
 
 ### Status
-
 🚧 Prototype
 
 ---
 
 # Guiding Principles
-
 When evaluating new survey designs and tools, priority is given to:
-
 1. Data quality
 2. Respondent experience
 3. Enumerator experience
@@ -116,7 +86,6 @@ When evaluating new survey designs and tools, priority is given to:
 ---
 
 # Long-Term Vision
-
 Build a collection of reusable survey design patterns, SurveyCTO components, field plug-ins, and methodological tools that can be adapted across:
 
 * Monitoring systems
@@ -135,7 +104,6 @@ The ultimate goal is to contribute practical solutions that make surveys **smart
 **Data Scientist | Monitoring & Evaluation Specialist | Survey Specialist**
 
 #### Areas of Interest
-
 * Survey Methodology
 * Data Collection Systems
 * AI for Development
