@@ -62,64 +62,42 @@ AI & Survey Operations
 • Survey documentation generation.
 • Coding and classification tools.
 • Knowledge retrieval systems.
-Repository Structure
-survey-lab/
-│
-├── surveycto/
-│   ├── forms/
-│   ├── templates/
-│   ├── field-plugins/
-│   └── examples/
-│
-├── methodology/
-│   ├── questionnaire-design/
-│   ├── sampling/
-│   ├── indicators/
-│   └── data-quality/
-│
-├── prototypes/
-│   ├── ux-concepts/
-│   ├── dashboards/
-│   └── automation/
-│
-├── ai/
-│   ├── prompts/
-│   ├── agents/
-│   └── survey-assistants/
-│
-├── docs/
-│
-└── README.md
+
 Current Projects
-School & Meal Day Calendar Plug-in
+
+- School & Meal Day Calendar Plug-in
 An interactive SurveyCTO field plug-in designed to replace repetitive day-by-day survey tables with a calendar-based selection interface.
 Objectives:
-
 • Reduce respondent fatigue.
 • Improve usability.
 • Preserve exact date-level information.
 • Improve data quality.
 Status: Prototype
+
+
 Guiding Principles
 When evaluating new survey designs, priority is given to:
-
 1. Data quality.
 2. Respondent experience.
 3. Enumerator experience.
 4. Scalability.
 5. Simplicity.
 6. Reproducibility.
+
 A solution that is slightly less sophisticated but significantly easier to implement and maintain will often be preferred.
+
 Long-Term Vision
 Build a collection of reusable survey design patterns, SurveyCTO components, field plug-ins, and methodological tools that can be adapted across monitoring systems, impact evaluations, operational surveys, and institutional data collection efforts.
 The ultimate goal is to contribute practical solutions that make surveys smarter, simpler, and more effective.
+
 Author
 Ricardy Valcin
-Data Scientist | Monitoring & Evaluation Specialist | Survey Systems Developer
-Interests:
+Data Scientist | Monitoring & Evaluation Specialist | Survey Specialist
 
+Interests:
 • Survey Methodology.
 • Data Collection Systems.
 • AI for Development.
 • Monitoring & Evaluation.
+• Impact Evaluation.
 • Fragility, Conflict & Violence Analytics.
