@@ -5,7 +5,6 @@ A repository dedicated to exploring, prototyping, and documenting innovative app
 ---
 
 ## Overview
-
 This repository serves as a personal laboratory for experimenting with new ideas related to:
 
 * Survey methodology
@@ -55,21 +54,6 @@ Custom SurveyCTO plug-ins including:
 * Survey documentation generation
 * Coding and classification tools
 * Knowledge retrieval systems
----
-
-# Current Projects
-
-## 📅 School & Meal Day Calendar Plug-in
-An interactive SurveyCTO field plug-in designed to replace repetitive day-by-day survey tables with a calendar-based selection interface.
-### Objectives
-* Reduce respondent fatigue
-* Improve usability
-* Preserve exact date-level information
-* Improve data quality
-
-### Status
-🚧 Prototype
-
 ---
 
 # Guiding Principles
