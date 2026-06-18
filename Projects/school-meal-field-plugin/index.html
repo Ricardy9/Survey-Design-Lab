@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>School & Meal Day Calendar</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="plugin-shell">
+    <div class="calendar-card">
+      <div class="toolbar">
+        <button id="prevMonthBtn" class="nav-btn" type="button" aria-label="Previous month">‹</button>
+        <div id="monthLabel" class="month-label"></div>
+        <button id="nextMonthBtn" class="nav-btn" type="button" aria-label="Next month">›</button>
+      </div>
+
+      <div id="stepBanner" class="step-banner"></div>
+      <div id="stepMessage" class="step-message"></div>
+
+      <div id="calendarPanel">
+        <div class="weekday-row">
+          <span>Mo</span>
+          <span>Tu</span>
+          <span>We</span>
+          <span>Th</span>
+          <span>Fr</span>
+          <span>Sa</span>
+          <span>Su</span>
+        </div>
+        <div id="calendarGrid" class="calendar-grid"></div>
+      </div>
+
+      <div id="reviewPanel" class="review-panel" hidden>
+        <div class="review-card">
+          <div class="review-stat">
+            <span class="review-label">School Days Selected</span>
+            <span id="schoolCount" class="review-value">0</span>
+          </div>
+          <div class="review-stat">
+            <span class="review-label">Meal Days Selected</span>
+            <span id="mealCount" class="review-value">0</span>
+          </div>
+        </div>
+        <div class="review-list">
+          <h4>School Days without Meals</h4>
+          <ul id="missingMealList"></ul>
+        </div>
+      </div>
+
+      <div class="footer-actions">
+        <button id="backBtn" class="action-btn secondary" type="button">Back</button>
+        <button id="continueBtn" class="action-btn primary" type="button">Continue</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
